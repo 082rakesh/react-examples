@@ -1,0 +1,41 @@
+.mainContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 10pt;
+	width: 50vw;
+	height: 50vw;
+	align-items: center;
+	justify-content: center;
+	background-color: bisque;
+}
+
+.form {
+	margin: 5pt;
+}
+
+.inputContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-bottom: 6pt;
+}
+
+.inputBox {
+	width: 20vw;
+	height: 30pt;
+	border-radius: 5pt;
+	margin-top: 5pt;
+}
+
+.loginButton {
+	width: 20vw;
+	height: 30pt;
+	margin-top: 20pt;
+}
+
+.signupContainer {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 20pt;
+}

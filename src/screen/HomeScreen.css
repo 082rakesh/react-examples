@@ -1,0 +1,11 @@
+.loginButton {
+	background-color: blue;
+	color: white;
+}
+
+.progressBox {
+	display: flex;
+	margin-top: 25px;
+	border: 1px solid red;
+	height: 15px;
+}
